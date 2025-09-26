@@ -1,5 +1,5 @@
-# Loading-page-
-Loading page 
+# Landing-page-
+Landing page 
 <!DOCTYPE html>
 <html lang="en">
 <head>
